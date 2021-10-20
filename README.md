@@ -17,5 +17,5 @@
    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingo700" />
 </div>
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyamero&theme=tokyonight&layout=compact&hide_border=true"
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingo700" />
 </div>
