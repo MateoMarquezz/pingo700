@@ -16,6 +16,4 @@
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=pingo700" />
    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pingo700" />
 </div>
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingo700" />
-</div>
+
