@@ -13,7 +13,7 @@
 - 🖍📐 Design
 - </a><img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=hyamero&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username={pingo700}" />
    <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=hyamero&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
