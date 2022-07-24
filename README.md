@@ -1,5 +1,5 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kauã Bastos</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pingo700&color=red" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working at [Coletek](https://coletek.com.br/)
 - Student at CEFET-MG 💻 
